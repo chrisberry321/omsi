@@ -1,0 +1,84 @@
+.tickets {
+  text-align: center;
+}
+
+.glyphicon {
+  font-size: 1.5em;
+}
+
+.hours {
+  text-align: center;
+  margin-top: 5px;
+}
+
+.menu p {
+  float: left;
+  margin: 24px 8px 0 0;
+}
+
+.glyphicon-align-justify {
+  margin-top: 8px;
+  font-size:2.5em;
+}
+.navbar-collapse ul li.hours a:hover{
+  color: red;
+}
+
+.navbar-brand {
+  color: red;
+  margin: 12px;
+  font-size: 2.3em;
+}
+
+.navbar-fixed-top {
+  opacity: 0.96;
+}
+
+.camps {
+  margin-top: 11vh
+}
+
+.col-xs-12 {
+  text-align: center;
+}
+
+.attractions, .events {
+  background-color: #EFEFEF;
+}
+
+.camps, .theater {
+  background-color: #F6F6F6;
+}
+
+.button {
+  background-color: lightgrey;
+  border: 1px solid lightgrey;
+  border-radius: 5px;
+  color: white;
+  padding: 10px;
+  margin: 1vh;
+}
+
+img {
+  width: 60%;
+  display: block;
+  margin: auto;
+}
+
+footer {
+  background-color: #353535;
+  text-align: center;
+  color: white;
+}
+
+
+
+.red {
+  height: 5px;
+  background-color: red;
+  margin-top: 0;
+}
+
+.omsi {
+  margin-bottom: 0;
+}
